@@ -1,8 +1,8 @@
 ### E ae, sou o Hugo Leonardo
 
 - 🎓 Graduando em Sistemas de Informação pela UFVJM
-- 🔭 Desenvolvedor back-end
-- 🌱 Estudando Python, C# e Java
+- 👨‍💻 Desenvolvedor back-end
+- 📚 Estudando Python, C# e Java
 - 🏢 Procurando por uma oportunidade de estágio
 - 📫 hugo.leonardo@ufvjm.edu.br
 
