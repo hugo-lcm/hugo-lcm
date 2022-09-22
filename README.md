@@ -1,9 +1,9 @@
-### E ae, sou o Hugo Leonardo
+### Hi, I'm Hugo Leonardo :wave:
 
-- 🎓 Graduando em Sistemas de Informação pela UFVJM
-- 👨‍💻 Desenvolvedor back-end, mas aberto a outras oportunidades
-- 📚 Estudando Python, C# e Java
-- 🏢 Procurando por uma oportunidade de estágio
+- 🎓 Graduating in Information Systems at UFVJM
+- 👨‍💻 Backend developer, but open to other opportunities
+- 📚 Currently learning Python, C# and Java
+- 🏢 Looking for an internship opportunity
 - 📫 hugo.leonardo@ufvjm.edu.br
 
 
@@ -16,12 +16,14 @@
 </div>
   
   
+  <h4>Languages and Tools:</h4>
 <div style="display: inline_block"><br>
   
   <img title="Python" align="center" alt="Hugo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img title="Django" align="center" alt="Hugo-Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img title="C#" align="center" alt="Hugo-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img title="Java" align="center" alt="Hugo-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img title="Django" align="center" alt="Hugo-Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img title="MySQL" align="center" alt="Hugo-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img title="Ubuntu" align="center" alt="Hugo-Ubuntu" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 
 </div>
