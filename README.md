@@ -2,7 +2,7 @@
 
 - 🎓 Graduating in Information Systems at UFVJM
 - 👨‍💻 Backend developer, but open to other opportunities
-- 📚 Currently learning Python, C#, Java and JavaScript
+- 📚 Currently learning Python, C# and JavaScript
 - 🏢 Looking for an internship opportunity
 - 📫 hugo.leonardo@ufvjm.edu.br
 
