@@ -14,7 +14,7 @@
     
 </div>
 
-  ![snake gif](https://github.com/hugo-lcm/hugo-lcm/blob/output/github-contribution-grid-snake.svg)
+ 
   
   <h4>Languages and Tools:</h4>
 <div style="display: inline_block"><br>
@@ -29,3 +29,5 @@
   <img title="Ubuntu" align="center" alt="Hugo-Ubuntu" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 
 </div>
+  
+   ![snake gif](https://github.com/hugo-lcm/hugo-lcm/blob/output/github-contribution-grid-snake.svg)
