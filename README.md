@@ -13,8 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-lcm&layout=compact&langs_count=8&theme=dark"/>
     
 </div>
-  
-  ![snake gif](https://github.com/hug-lcm/hugo-lcm/blob/output/github-contribution-grid-snake.svg)
+
   
   <h4>Languages and Tools:</h4>
 <div style="display: inline_block"><br>
