@@ -14,6 +14,7 @@
     
 </div>
   
+  ![snake gif](https://github.com/hug-lcm/hugo-lcm/blob/output/github-contribution-grid-snake.svg)
   
   <h4>Languages and Tools:</h4>
 <div style="display: inline_block"><br>
