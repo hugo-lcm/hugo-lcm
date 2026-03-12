@@ -1,8 +1,8 @@
 ### Hi, I'm Hugo Leonardo :wave:
 
-- 🎓 Graduating in Information Systems at UFVJM
-- 👨‍💻 Backend developer
-- 📚 Currently learning C#, Microsoft Power Platform and SQL Server
+- 🎓 Bachelor's Degree in Information Systems – UFVJM
+- 👨‍💻 Power Platform Developer
+- 📚 Studying Power Automate Desktop, Copilot, and Dynamics 365 plugin and scripting development
 - 📫 hugo.leonardo@ufvjm.edu.br
 
 
@@ -29,5 +29,3 @@
   <img title="Ubuntu" align="center" alt="Hugo-Ubuntu" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 
 </div>
-  
-   ![snake gif](https://github.com/hugo-lcm/hugo-lcm/blob/output/github-contribution-grid-snake.svg)
